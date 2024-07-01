@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "email": "akhilpatta2002@gmail.com",
+      "name": "akhil varma",
+      "password": "qwerty",
+      "id": 1
+    },
+    {
+      "email": "akhil2002@gmail.com",
+      "name": "akhil",
+      "password": "qwerty",
+      "id": 2
+    },
+    {
+      "email": "patta2002@gmail.com",
+      "name": "patta",
+      "password": "qwerty",
+      "id": 3
+    },
+    {
+      "email": "test@gmail.com",
+      "password": "qwerty",
+      "name": "test",
+      "id": 4
+    },
+    {
+      "email": "akhil@gmail.com",
+      "password": "qwerty",
+      "name": "",
+      "id": 5
+    },
+    {
+      "email": "akhil@gmail.com",
+      "password": "qwerty",
+      "name": "",
+      "id": 6
+    },
+    {
+      "email": "test@gmail.com",
+      "password": "qwerty",
+      "name": "test",
+      "id": 7
+    },
+    {
+      "email": "sailaja@gmail.com",
+      "password": "qwerty",
+      "name": "sailaja",
+      "id": 8
+    },
+    {
+      "email": "prakash@gmail.com",
+      "password": "qwerty",
+      "name": "prakash",
+      "id": 9
+    },
+    {
+      "email": "deeepak@gmail.com",
+      "password": "qwerty",
+      "name": "Deepak",
+      "id": 10
+    }
+  ]
+}
